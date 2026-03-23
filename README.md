@@ -22,13 +22,7 @@ Kylian Mbappé Lottin
 </p>
 世界最速とも言われるスピード（時速約38kmを記録）が最大の特徴です。2022年W杯決勝でハットトリックを達成するなど、大舞台での勝負
 </h3><br>
-24
-25
-26
-27
-28 +
-29v
-30v
+
 </h3>
 <div id=b><h3>
 ‹li›Neymar da Silva Santos Júnior</li>
