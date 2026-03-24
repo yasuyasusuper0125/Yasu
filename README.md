@@ -45,7 +45,9 @@ Kylian Mbappé Lottin
 
 <style>
 
-#a{color:#f08080;}#b{color:#0fa9a;}
+#a{color:#f08080;}
+  
+  #b{color:#0fa9a;}
 #c{color:#0000ff;}
 </style>
 </html>
